@@ -97,8 +97,11 @@ All optimized for:
 ## 📂 Repository Structure
 
 ├── requirements.md # Functional & non-functional requirements (via Kiro Spec)
+
 ├── design.md # System architecture & module design (via Kiro Design)
+
 ├── README.md # Project overview & documentation
+
 └── Udaan_AI_Final_Presentation.pptx
 
 
@@ -131,8 +134,8 @@ It is a **national-scale AI mentor** enabling rural youth to:
 
 ## 👥 Team
 
-**Team Name:** *(Add here)*  
-**Team Leader:** *(Add here)*  
+**Team Name:** *CodewithHackers*  
+**Team Leader:** *Yogesh Thakur*  
 **Hackathon:** AWS AI for Bharat
 
 ---
