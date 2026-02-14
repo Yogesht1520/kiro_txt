@@ -96,4 +96,48 @@ All optimized for:
 
 ## 📂 Repository Structure
 
+├── requirements.md # Functional & non-functional requirements (via Kiro Spec)
+├── design.md # System architecture & module design (via Kiro Design)
+├── README.md # Project overview & documentation
+└── Udaan_AI_Final_Presentation.pptx
+
+
+---
+
+## 🚀 How This Was Built
+
+This project follows the **Kiro Spec → Design workflow**:
+
+1. Natural language idea → **Kiro Spec generation**
+2. Spec → **Kiro Design architecture**
+3. Exported **requirements.md** & **design.md**
+4. Implemented **AWS-ready scalable solution**
+
+---
+
+## 🏆 Why Udaan AI Matters
+
+Udaan AI is not just a chatbot.  
+It is a **national-scale AI mentor** enabling rural youth to:
+
+✔ Discover careers  
+✔ Learn relevant skills  
+✔ Prepare confidently  
+✔ Secure employment  
+
+**Empowering India’s future workforce through AI.**
+
+---
+
+## 👥 Team
+
+**Team Name:** *(Add here)*  
+**Team Leader:** *(Add here)*  
+**Hackathon:** AWS AI for Bharat
+
+---
+
+## 📜 License
+
+For hackathon evaluation and educational use.
 
